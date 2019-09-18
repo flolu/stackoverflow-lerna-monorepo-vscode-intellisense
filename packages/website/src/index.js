@@ -1,3 +1,3 @@
-import { Component1, Component2 } from '@namespace/components';
+import { OtherComponent } from '@namespace/components';
 
-console.log('component: ', Component2);
+console.log('component: ', OtherComponent);
