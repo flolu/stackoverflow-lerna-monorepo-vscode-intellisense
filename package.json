@@ -1,0 +1,14 @@
+{
+  "name": "namespace",
+  "version": "0.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  },
+  "scripts": {
+    "bootstrap": "yarn install"
+  }
+}
